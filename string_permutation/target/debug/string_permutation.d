@@ -1,0 +1,1 @@
+/home/oyoussef/Desktop/piscine-rust/string_permutation/target/debug/string_permutation: /home/oyoussef/Desktop/piscine-rust/string_permutation/src/lib.rs /home/oyoussef/Desktop/piscine-rust/string_permutation/src/main.rs
