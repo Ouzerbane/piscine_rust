@@ -1,0 +1,1 @@
+/home/oyoussef/Desktop/piscine-rust/generics_list/target/debug/generics_list: /home/oyoussef/Desktop/piscine-rust/generics_list/src/lib.rs /home/oyoussef/Desktop/piscine-rust/generics_list/src/main.rs
