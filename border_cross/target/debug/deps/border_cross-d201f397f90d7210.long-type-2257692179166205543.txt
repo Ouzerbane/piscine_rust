@@ -1,0 +1,1 @@
+for<'a> fn(Vec<&'a {type error}, {type error}>) -> Vec<&'a str> {all_models}

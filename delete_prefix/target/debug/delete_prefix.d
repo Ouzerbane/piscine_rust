@@ -1,0 +1,1 @@
+/home/oyoussef/Desktop/piscine-rust/delete_prefix/target/debug/delete_prefix: /home/oyoussef/Desktop/piscine-rust/delete_prefix/src/lib.rs /home/oyoussef/Desktop/piscine-rust/delete_prefix/src/main.rs
